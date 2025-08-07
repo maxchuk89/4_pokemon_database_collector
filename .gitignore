@@ -91,3 +91,11 @@ media/
 
 4_pokemon_database_collector.txt
 pokemon_entities/pokemons.json
+pokemons.json
+
+*.pyo
+*.pyd
+.vscode/
+.idea/
+Thumbs.db
+
