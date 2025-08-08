@@ -99,3 +99,4 @@ pokemons.json
 .idea/
 Thumbs.db
 
+*.json
